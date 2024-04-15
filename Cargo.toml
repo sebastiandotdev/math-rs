@@ -1,4 +1,3 @@
-workspace = { members = ["examples/lib-rs"] }
 [package]
 name = "math-rs"
 version = "0.1.0"

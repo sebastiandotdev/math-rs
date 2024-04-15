@@ -3,9 +3,5 @@
 version = 3
 
 [[package]]
-name = "lib-rs"
-version = "0.1.0"
-
-[[package]]
 name = "math-rs"
 version = "0.1.0"
