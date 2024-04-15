@@ -1,4 +1,4 @@
-name: Rust
+name: Actions with Rust
 
 on:
   push:
