@@ -16,13 +16,13 @@ impl Sum {
 #[test]
 fn test_sum() {
   let result = Sum::new(vec![2, 2]);
-  
+
   assert_eq!(result, 4);
 }
 
 #[test]
 fn test_sum_error() {
-    let result = Sum::new(vec![2, 2]);
-    
-    assert_ne!(result, 5);
+  let result = Sum::new(vec![2, 2]);
+
+  assert_ne!(result, 5);
 }
